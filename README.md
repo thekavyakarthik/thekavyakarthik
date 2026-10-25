@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 I am a sophomore at the University of Washington studying Computer Science, intending to double major with Mathematics/Engineering.  
+😄 I am a sophomore at the University of Washington studying Computer Science, intending to double major in Mechanical Engineering.  
 🔭 I’m currently working on React based course pre-requisite mapper!  
 📫 Contact me via gmail through kkavya30@uw.edu  
